@@ -1,0 +1,22 @@
+/**
+ * Author: TrungQuanDev - Một Lập Trình Viên
+ * Channel: https://youtube.com/@trungquandev
+ * Created at: Feb 09, 2024
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;800&display=swap');
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
